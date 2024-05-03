@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021112934973",
+    "project_id": "login-register-scancer-2f47b",
+    "storage_bucket": "login-register-scancer-2f47b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021112934973:android:353f90d78b2ea4fd230054",
+        "android_client_info": {
+          "package_name": "com.example.scancer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBw6PN9OA5PLlxsud1alqBmek6KxkOa60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

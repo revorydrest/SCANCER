@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- iphone_11_pro_max___login strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="join_our_community_today_string">Join our community today</string>
+	<string name="get_connected__find_designers_to_start_a_project_string">Get connected, find designers to start a project</string>
+	<string name="email_ek1_string">Email</string>
+	<string name="password_ek1_string">Password</string>
+	<string name="login_string">Login</string>
+	<string name="_09_30_string">09:30</string>
+	<string name="kulit_sehat__hidup_bahagia__string">Kulit Sehat, Hidup Bahagia!</string>
+	<string name="mari_jelajahi_dunia_tanpa_batas_dengan_kulit_yang_sehat_string">Mari Jelajahi Dunia Tanpa Batas dengan Kulit yang Sehat</string>
+	<string name="email_ek3_string">Email</string>
+	<string name="password_ek3_string">Password</string>
+	<string name="login_ek1_string">Login</string>
+	<string name="_09_30_ek1_string">09:30</string>
+</resources>

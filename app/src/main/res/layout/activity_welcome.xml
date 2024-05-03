@@ -1,0 +1,142 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent" android:layout_height="wrap_content" >
+    <!--
+    /*
+     *	This content is generated from the API File Info.
+     *	(Alt+Shift+Ctrl+I).
+     *
+     *	@desc
+     *	@file 		iphone_11_pro_max___milih
+     *	@date 		Friday 03rd of May 2024 06:42:58 PM
+     *	@title 		Page 1
+     *	@author
+     *	@keywords
+     *	@generator 	Export Kit v1.3.figma
+     *
+     */
+    -->
+    <ScrollView android:id="@+id/iphone_11_pro_max___milih"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent" >
+
+        <RelativeLayout android:id="@+id/content_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <View
+                android:id="@+id/_bg__iphone_11_pro_max___milih"
+                android:layout_width="500dp"
+                android:layout_height="896dp"
+                android:layout_marginStart="0dp"
+                android:layout_marginTop="0dp"
+                android:background="@drawable/_bg__iphone_11_pro_max___milih_shape" />
+
+            <ImageView android:id="@+id/screenshot_2024_05_01_142119_1"
+                android:src="@drawable/screenshot_2024_05_01_142119_1"
+                android:contentDescription="screenshot_2024_05_01_142119_1"
+                android:layout_marginStart="92dp"
+                android:layout_marginTop="300dp"
+                android:layout_width="228dp"
+                android:layout_height="43dp" />
+
+            <ImageView android:id="@+id/image_1"
+                android:src="@drawable/scancer_512"
+                android:contentDescription="image_1"
+                android:layout_marginStart="64dp"
+                android:layout_marginTop="130dp"
+                android:layout_width="285dp"
+                android:layout_height="187dp" />
+
+
+            <RelativeLayout android:id="@+id/login"
+                android:layout_marginTop="585dp"
+                android:layout_marginStart="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+
+                <Button
+                    android:id="@+id/loginwelcome"
+                    android:layout_width="370dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16dp"
+                    android:text="@string/login_ek1_string"
+                    android:textSize="22sp"
+                    android:textColor="@color/_bg__iphone_11_pro_max___milih_color"
+                    android:background="@color/ungu"
+                    android:paddingStart="16dp"
+                    android:paddingEnd="16dp"
+                    android:paddingTop="8dp"
+                    android:paddingBottom="8dp"
+                    />
+
+
+            </RelativeLayout>
+
+
+            <RelativeLayout android:id="@+id/regis"
+                android:layout_marginTop="664dp"
+                android:layout_marginStart="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                >
+
+
+
+                <Button
+                    android:id="@+id/registerwelcome"
+                    android:layout_width="370dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="18dp"
+                    android:text="@string/register_string"
+                    android:textSize="22sp"
+                    android:textColor="@color/_bg__iphone_11_pro_max___milih_color"
+                    android:background="@color/biru"
+                    android:paddingStart="16dp"
+                    android:paddingEnd="16dp"
+                    android:paddingTop="8dp"
+                    android:paddingBottom="8dp"
+
+                    />
+
+            </RelativeLayout>
+
+            <TextView android:id="@+id/selamat_datang_di_scancer"
+                android:layout_gravity="center_horizontal|center"
+                android:gravity="center"
+                android:textSize="37sp"
+                android:textColor="@color/selamat_datang_di_scancer_color"
+                android:layout_marginLeft="25dp"
+                android:layout_marginTop="382dp"
+                android:layout_width="369dp"
+                android:layout_height="150dp"
+                android:text="@string/selamat_datang_di_scancer_string"
+                />
+
+            <TextView android:id="@+id/silahkan_lakukan_login_atau_registrasi"
+                android:layout_gravity="center_horizontal|center"
+                android:gravity="center"
+                android:textSize="14sp"
+                android:textColor="@color/selamat_datang_di_scancer_color"
+                android:layout_marginLeft="57dp"
+                android:layout_marginTop="490dp"
+                android:layout_width="307dp"
+                android:layout_height="42dp"
+                android:text="@string/silahkan_lakukan_login_atau_registrasi_string"
+                />
+
+            <ImageView
+                android:id="@+id/vector_ek1"
+                android:layout_width="481.21dp"
+                android:layout_height="175.29dp"
+                android:layout_marginStart="-36.71dp"
+                android:layout_marginTop="850.21dp"
+                android:contentDescription="vector_ek1"
+                android:src="@drawable/Frame_39" />
+
+
+        </RelativeLayout>
+
+    </ScrollView>
+</HorizontalScrollView>
